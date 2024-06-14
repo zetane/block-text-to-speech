@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Text-to-Speech Conversion with TTS
 
 This repository contains a script to convert textual descriptions into audio files using a text-to-speech (TTS) model. The script is designed to work with a specific TTS model from the `TTS` library.
